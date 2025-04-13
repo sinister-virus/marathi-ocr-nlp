@@ -13,7 +13,7 @@ This project implements handwritten text recognition using **OCR (Optical Charac
 
 > 🧾 **Subject Code:** CTMTAIDS SII P3  
 > 📘 **Subject Name:** Natural Language Processing  
-> 🎓 **Course:** M.Tech in Artificial Intelligence & Data Science (Cybersecurity)  
+> 🎓 **Course:** M.Tech in Artificial Intelligence & Data Science (Specialization in Cybersecurity)  
 > 🏛️ **Institute:** National Forensic Sciences University (NFSU), Gandhinagar  
 > 📝 **Assignment:** TA2 – Handwritten Text Recognition in Native Language
 
